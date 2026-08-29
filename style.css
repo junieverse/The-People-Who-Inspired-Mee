@@ -1,0 +1,29 @@
+body {
+    background-color: cornsilk;
+    font-family: monospace;
+    padding-bottom: 30px;
+    padding: 0px 5% 30px;
+}
+
+h1 {
+    color: sienna;
+    text-align: center;
+    font-family: serif;
+}
+
+p {
+  color: sienna;
+}
+
+h2 {
+    color: #873600;
+}
+
+
+
+img {
+    width: 250px;
+}
+
+
+
